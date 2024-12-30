@@ -196,5 +196,5 @@ Rajat_One: nothing much
 
 ### And we have successfully created a chatroom based on Transmission Control Protocol in Python! 🎉 🥳
 
-**Follow me on Instagram :** https://instagram.com/rajatrajputdev <br>
+**Follow me on Instagram :** https://instagram.com/rajatrajput.dev <br>
 **Follow me on LinkedIn :** https://linkedin.com/in/rajatrajput2004
